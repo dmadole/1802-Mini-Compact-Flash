@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 40240
+D Octal Inverting Line Driver
+K CMOS BUFFER
+F http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf
+$ENDCMP
+#
+#End Doc Library
