@@ -16,5 +16,7 @@ This is the compact flash card for the [1802/Mini](https://github.com/dmadole/18
 
 Gerber files for the PCBs and PDF schematics can be found in [Releases](https://github.com/dmadole/1802-Mini-Compact-Flash/releases).
 
+BOMS and any applicable errata or other notes can be found in [notes](https://github.com/dmadole/1802-Mini-Compact-Flash/tree/main/notes).
+
 ![1802/Mini Compact Flash Front](https://github.com/dmadole/1802-Mini-Compact-Flash/blob/main/photos/1802-Mini-Compact-Flash-Rev-A-Assembled-Front.jpg)
 ![1802/Mini Compact Flash Back](https://github.com/dmadole/1802-Mini-Compact-Flash/blob/main/photos/1802-Mini-Compact-Flash-Rev-A-Assembled-Back.jpg)
