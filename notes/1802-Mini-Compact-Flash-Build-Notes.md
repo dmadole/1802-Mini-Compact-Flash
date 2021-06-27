@@ -2,6 +2,8 @@
 
 Follow usual assembly practices, which I will not document here. I recommend installing the lowest-height components first (resistors, diodes, right-angle connectors), then the next higher (sockets), and so on.
 
+Please see any [applicable errata](https://github.com/dmadole/1802-Mini-Compact-Flash/tree/main/notes) before assembling.
+
 ## Compact Flash Connector
 
 The board is designed for a through-hole compact flash connector to make assembly easier, but it is still 0.05-inch pitch on the leads, so soldering needs to be done carefully. I recommending soldering one pin at a time, under magnification, with just the minimum amount of solder to make a good connection, and keep your tip clean. This will help avoid bridges. Sometimes additional flux can help as well as it increases the surface tension of the solder.
