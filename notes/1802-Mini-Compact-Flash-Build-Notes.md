@@ -25,3 +25,9 @@ This card is compatible with standard Pico/Elf or "Mike Riley" IDE interface sof
 ## Lead Trimming
 
 I like to cut all the pins on the back of the board, even the IC sockets, so they are tight with the solder. This can help with clearance on stacked boards, especially with a metal can oscillator. I then also sand over the surface lightly with an emery board to even them a little and remove sharp edges. Of course if you take this latter step, you will need to clean the board well after and be careful since the dust is conductive and probably contains lead, depending on your materials.
+
+## Jumper Settings
+
+The following settings are recommended for use with Elf/OS. These will set the I/O address to ports 2 and 3 anddiable the use of any EF line. The use of EF lines is intended for facilitating future interrupt-driven software, and this is not necessary for Elf/OS. These settings will give compatibility with the Pico/Elf which is the most common Elf/OS platform.
+
+![1802/Mini Compact Flash Jumpers](https://github.com/dmadole/1802-Mini-Compact-Flash/blob/main/photos/1802-mini-compact-flash-jumpers-elfos.jpg)
